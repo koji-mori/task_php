@@ -43,4 +43,4 @@ $calendar2018 = [
 ];
 
 // 12月を表示する
-echo $calendar2018[December];
+echo $calendar2018["December"];
